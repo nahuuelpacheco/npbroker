@@ -12,7 +12,7 @@ namespace prybroker23
 {
     class clsdatosproveedor
     {
-        public string NombreArchivoAsegurados = "C:\\Users\\BKP\\Desktop\\prybroker23\\prybroker23\\bin\\Debug\\Proveedores\\datosProveedor.csv";
+        public string NombreArchivoAsegurados = @"../../bin/Debug/Proveedores/datosProveedor.csv";
         public void grabar(string numero, string entidad, string Apertura, string numexpediente, string juzg, string jurisd, string direccion, string liquidador)
         {
             StreamWriter Archivo = new StreamWriter(NombreArchivoAsegurados, true); //ABRIR ARCHIVO

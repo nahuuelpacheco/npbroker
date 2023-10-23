@@ -67,6 +67,12 @@
     </Compile>
     <Compile Include="clsdatos.cs" />
     <Compile Include="clsdatosproveedor.cs" />
+    <Compile Include="frmElClub.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmElClub.Designer.cs">
+      <DependentUpon>frmElClub.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmgrid.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -117,6 +123,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="clsBaseESC.resx">
+      <DependentUpon>clsBaseESC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmElClub.resx">
+      <DependentUpon>frmElClub.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmgrid.resx">
       <DependentUpon>frmgrid.cs</DependentUpon>
     </EmbeddedResource>
