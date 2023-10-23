@@ -1,0 +1,17 @@
+C:\Users\BKP\Desktop\prybrokergithub\bin\Debug\prybroker23.exe.config
+C:\Users\BKP\Desktop\prybrokergithub\bin\Debug\prybroker23.exe
+C:\Users\BKP\Desktop\prybrokergithub\bin\Debug\prybroker23.pdb
+C:\Users\BKP\Desktop\prybrokergithub\obj\Debug\prybroker23.csproj.AssemblyReference.cache
+C:\Users\BKP\Desktop\prybrokergithub\obj\Debug\prybroker23.frmgrid.resources
+C:\Users\BKP\Desktop\prybrokergithub\obj\Debug\prybroker23.frmgridproveedores.resources
+C:\Users\BKP\Desktop\prybrokergithub\obj\Debug\prybroker23.frminicio.resources
+C:\Users\BKP\Desktop\prybrokergithub\obj\Debug\prybroker23.frmcarga.resources
+C:\Users\BKP\Desktop\prybrokergithub\obj\Debug\prybroker23.frmlogin.resources
+C:\Users\BKP\Desktop\prybrokergithub\obj\Debug\prybroker23.frmregistroproveedor.resources
+C:\Users\BKP\Desktop\prybrokergithub\obj\Debug\prybroker23.frmregistrousuario.resources
+C:\Users\BKP\Desktop\prybrokergithub\obj\Debug\prybroker23.frmsplit.resources
+C:\Users\BKP\Desktop\prybrokergithub\obj\Debug\prybroker23.Properties.Resources.resources
+C:\Users\BKP\Desktop\prybrokergithub\obj\Debug\prybroker23.csproj.GenerateResource.cache
+C:\Users\BKP\Desktop\prybrokergithub\obj\Debug\prybroker23.csproj.CoreCompileInputs.cache
+C:\Users\BKP\Desktop\prybrokergithub\obj\Debug\prybroker23.exe
+C:\Users\BKP\Desktop\prybrokergithub\obj\Debug\prybroker23.pdb
